@@ -1,4 +1,4 @@
-# macOS Unlocker v3.0 for VMware ESXi
+# macOS Unlocker v3.0.5 for VMware ESXi
 
 ## Download ESXi 7.0 (integrated Unlocker and SLIC)
 
@@ -107,6 +107,8 @@ Thanks also to Sam B for finding the solution for ESXi 6 and helping me with deb
 - 01/05/2020 3.0.1 - Fix for ESXi 7.0
 - 10/18/2020 3.0.2 - Fix for ESXi 7.0 U1 (7.0.1)
 - 10/17/2020 3.0.3 - Fix for ESXi 7.0 U3 (7.0.3)
+- 02/05/2022 3.0.5 - Fix for ESXi 7.0 U3c (7.0.3)
 
 (c) 2011-2018 Dave Parsons
-Powered by sysin.org
+
+Powered by [sysin.org](https://sysin.org/)
